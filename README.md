@@ -1,1 +1,2 @@
 # studygo
+# day 1 
